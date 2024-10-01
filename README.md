@@ -17,4 +17,4 @@ int main() {
 }
 ```
 
-1
+![Alt text](image.jpg)
